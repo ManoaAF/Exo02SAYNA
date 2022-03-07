@@ -1,0 +1,83 @@
+header {
+    background-image: url(../img/image/header_bg.jpg);
+    text-align: center;
+    padding: 1% 25% 1% 10%;
+    position: fixed;
+}
+
+a {
+    list-style-type: none;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#GetItNow {
+    color: #3d9f96;
+}
+
+.intro {
+    background-image: url(../img/image/header_bg.jpg);
+    padding: 5% 0% 0% 0%;
+    text-align: center;
+}
+
+button {
+    background-color: #3d9f96;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.row.socialmedia {
+    background-color: #f7f7f7;
+    text-align: center;
+    padding: 2% 20% 2% 20%;
+}
+
+.NewApp {
+    text-align: center;
+}
+
+.row.NewApp {
+    background-image: url(../img/image/map_bg.png);
+    width: 100%;
+    padding: 3% 20% 5% 20%;
+}
+
+.avatar {
+    color: #FFFFFF;
+    text-align: center;
+    background-image: url(../img/image/header_bg.jpg);
+    padding: 5%;
+}
+
+.screenshots {
+    background-color: #f7f7f7;
+    padding: 2% 10% 2% 15%;
+}
+
+.container {
+    padding: 2% 10% 2% 15%;
+}
+
+.intro button {
+    border-radius: 5em;
+    padding: 1em;
+    width: 10em;
+    height: 2, 5em;
+}
+
+.info {
+    background-color: #f7f7f7;
+    padding: 2% 10% 2% 25%;
+}
+
+.row.footer {
+    padding: 1% 0% 1% 25%;
+}
+
+.col button {
+    border-radius: 5em;
+    padding: 1em;
+    width: 10em;
+    height: 2, 5em;
+}
